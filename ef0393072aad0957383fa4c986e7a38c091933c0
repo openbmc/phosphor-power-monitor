@@ -1,0 +1,10 @@
+Code-Review+1: Jim Wright <jlwright@us.ibm.com>
+Code-Review+1: Derek Howard <derekh@us.ibm.com>
+Code-Review+2: B. J. Wyman <bjwyman@gmail.com>
+Ok-To-Test+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Verified+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Submitted-by: B. J. Wyman <bjwyman@gmail.com>
+Submitted-at: Thu, 15 Aug 2019 20:31:33 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/phosphor-power-monitor/+/24055
+Project: openbmc/phosphor-power-monitor
+Branch: refs/heads/master
